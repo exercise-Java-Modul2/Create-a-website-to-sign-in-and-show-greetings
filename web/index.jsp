@@ -26,7 +26,7 @@
     <title>ThucHanhTaoTrangWedDangNhap</title>
   </head>
   <body>
-  <form>
+  <form method="post" action="/login">
     <div class="login">
       <h2>login</h2>
       <input type="text" name="username" size="30" placeholder="username"/>
